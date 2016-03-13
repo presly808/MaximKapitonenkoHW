@@ -1,4 +1,4 @@
-/**
+package week1HW; /**
  * Created by m_underwood on 3/11/16.
  */
 import java.util.Scanner;
@@ -39,6 +39,5 @@ public class task2 {
                 System.out.println("The smallest number is " + secondNumber);
             }
         }
-
     }
 }

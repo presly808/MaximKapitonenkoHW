@@ -1,4 +1,4 @@
-/**
+package week1HW; /**
  * Created by m_underwood on 3/11/16.
  */
 import java.util.Scanner;
@@ -14,6 +14,5 @@ public class task1 {
         } else {
             System.out.println("I am resting");
         }
-
     }
 }
